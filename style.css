@@ -1,5 +1,7 @@
-img {
-    object-fit: cover;
-    width: 150px;
-    height: 150px;
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h6 {
+    text-size-adjust: 5px;
 }
